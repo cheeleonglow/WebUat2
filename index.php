@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "Hello Web 2 in Australia Central!";
